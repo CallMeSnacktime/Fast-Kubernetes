@@ -52,7 +52,7 @@ spec:
 
 
 - Create Yaml file (rolling-deployment.yaml) in your directory and copy the below definition into the file.
-- File: https://github.com/omerbsezer/Fast-Kubernetes/blob/main/labs/deployment/rolling-deployment.yaml
+- File: https://github.com/CallMeSnacktime/Fast-Kubernetes/blob/main/labs/deployment/rolling-deployment.yaml
 
 ```
 apiVersion: apps/v1
